@@ -1,1 +1,15 @@
-
+[
+  {
+    "title": "My Road to Become a CMSE",
+    "slug": "my-road-to-become-a-cmse",
+    "date": "2026-03-08",
+    "tags": [
+      "CMSE",
+      "TÜV NORD",
+      "Certificación"
+    ],
+    "description": "Mi experiencia preparándome para la certificación CMSE de TÜV NORD.",
+    "image": "assets/images/cmse-cover.jpg",
+    "type": "blog"
+  }
+]
