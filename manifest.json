@@ -1,5 +1,5 @@
 {
-  "cdn": "https://cdn.jsdelivr.net/gh/benchmarkscg/blog-content@main/"
+  "cdn": "https://cdn.jsdelivr.net/gh/benchmarkscg/blog-content@main/",
   "index": "index/index.json",
   "posts": "posts/",
   "tags": "tags/tags.json",
