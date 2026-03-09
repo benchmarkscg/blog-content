@@ -1,1 +1,8 @@
-
+{
+  "index": "index/index.json",
+  "posts": "posts/",
+  "tags": "tags/tags.json",
+  "search": "search/search.json",
+  "assets": "assets/",
+  "extras": "extras/"
+}
