@@ -9,7 +9,7 @@ type: "blog"
 ---
 
 The road to become a CMSE® – Certified Machinery Safety Expert (TÜV NORD) was rough.  
-This certification isn't easy, though I don't plan to demotivate you — rather, I want to share my experience.
+This certification isn't easy, though I don't plan to demotivate you — rather, I want to share my experience, that's it.
 
 I had to deep dive into harmonized ISO standards under 2006/42/EC. Understanding the difference between somewhat similar standards such as IEC 61508 and ISO 13849 was a challenge on its own.
 
