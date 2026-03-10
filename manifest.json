@@ -1,15 +1,12 @@
 {
   "version": "1.0",
-  "build": "auto",
-
+  "build": "2026-03-10T03:33:50.434Z",
   "cdn": "https://cdn.jsdelivr.net/gh/benchmarkscg/blog-content@latest/",
-
   "index": "index/",
   "posts": "posts/",
   "tags": "tags/tags.json",
   "search": "search/search.json",
   "assets": "assets/",
   "extras": "extras/",
-
   "posts_per_page": 6
 }
