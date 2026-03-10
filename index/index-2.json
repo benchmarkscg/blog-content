@@ -1,0 +1,19 @@
+{
+  "page": 2,
+  "total_pages": 2,
+  "posts": [
+    {
+      "title": "Something Random",
+      "slug": "my-road-to-become-a-cmse",
+      "date": "2026-03-08",
+      "description": "Mi experiencia preparándome para la certificación CMSE de TÜV NORD.",
+      "image": "assets/images/cmse-cover.jpg",
+      "tags": [
+        "Random",
+        "two",
+        "Page2"
+      ],
+      "type": "blog"
+    }
+  ]
+}
