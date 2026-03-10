@@ -4,7 +4,7 @@ slug: "my-road-to-become-a-cmse"
 date: "2026-03-08"
 tags: ["CMSE", "Certification"]
 description: "My experience preparing for the CMSE certification by TÜV NORD."
-image: "assets/images/cmse-cover.jpg"
+image: "assets/img/cmse-cover.webp"
 type: "blog"
 ---
 
@@ -54,7 +54,7 @@ You begin to see the structure behind the complexity, and that’s when the real
 
 ### My CMSE Manual — The Most Annotated Book I Own
 
-![My CMSE manual full of post-its](assets/images/cmse-manual-postits.jpg)
+![My CMSE manual full of post-its](assets/img/cmse-manual-postits.jpg)
 
 I treated the manual like a working tool:
 
@@ -64,7 +64,7 @@ I treated the manual like a working tool:
 
 ### My Notebook — Where Theory Met Practice
 
-![My handwritten notes during CMSE preparation](assets/images/cmse-notebook.jpg)
+![My handwritten notes during CMSE preparation](assets/img/cmse-notebook.jpg)
 
 Writing by hand helped me connect the training material with real‑world scenarios.  
 The whole thing isn’t about “knowing everything” — that’s impossible.  
