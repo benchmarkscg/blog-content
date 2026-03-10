@@ -5,7 +5,9 @@ on:
     paths:
       - "posts/*.md"
       - "scripts/build-blog.js"
+      - "manifest.json"
       - ".github/workflows/build-blog.yml"
+
   workflow_dispatch:
 
 jobs:
@@ -24,13 +26,19 @@ jobs:
       - name: Install dependencies
         run: npm install gray-matter fs-extra
 
-      - name: Generate blog JSON
+      - name: Build blog indexes
         run: node scripts/build-blog.js
 
-      - name: Commit & Push changes
+      - name: Commit generated files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Auto-update blog indexes" || echo "No changes to commit"
+
+          git add index/
+          git add tags/
+          git add search/
+          git add manifest.json
+
+          git commit -m "Auto update blog indexes" || echo "No changes"
+
           git push
