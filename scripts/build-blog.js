@@ -91,7 +91,7 @@ async function build() {
   fs.writeJsonSync(searchFile, searchIndex, { spaces: 2 });
 
   // actualizar build timestamp
-  manifest.build = new Date().toISOString();
+  manifest.build = Date.now();
   fs.writeJsonSync(manifestFile, manifest, { spaces: 2 });
 
   console.log("Blog build completed.");
