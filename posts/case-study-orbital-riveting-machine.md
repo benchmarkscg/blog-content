@@ -127,6 +127,7 @@ This time, the spindle stopped instantly. Silence. Exactly what an emergency sto
 ### ❌ Legacy System
 ![Legacy diagram](/assets/img/riveting-machine-legacy-wiring.jpg)
 **Figure 1:** Legacy system wiring — single‑channel E‑Stop only shutting down the index motor.
+
 **Issues:**
 - No safety relay  
 - No redundant contactors  
