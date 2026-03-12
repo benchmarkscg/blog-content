@@ -125,20 +125,16 @@ This time, the spindle stopped instantly. Silence. Exactly what an emergency sto
 ## <i class="bi bi-arrow-left-right"></i> Before vs After
 
 ### ❌ Legacy System
-
-//
-
+![Legacy diagram](/assets/img/riveting-machine-legacy-wiring.jpg)
+**Figure 1:** Legacy system wiring — single‑channel E‑Stop only shutting down the index motor.
 **Issues:**
 - No safety relay  
 - No redundant contactors  
 - Logic and safety combined in a single controller  
 
-![Legacy diagram](/assets/img/riveting-machine-legacy-wiring.jpg)
-**Figure 1:** Legacy system wiring — single‑channel E‑Stop only shutting down the index motor.
-
 ### ✅ Remediated System
 ![Basic safety diagram](/assets/img/riveting-machine-revised-wiring.png)
-**Figure 2:**basic circuitry for the improvements, contactors for the power/logic and safety E-Stop dual channel configuration.
+**Figure 2:** Basic circuitry for the improvements, contactors for the power/logic and safety E-Stop dual channel configuration.
 
 **Improvements:**
 - Clear separation between safety and logic  
