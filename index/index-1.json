@@ -3,6 +3,19 @@
   "total_pages": 1,
   "posts": [
     {
+      "title": "Case Study: Orbital Riveting Machine Safety Remediation",
+      "slug": "case-study-orbital-riveting-machine",
+      "date": "2026-03-12",
+      "description": "A real industrial safety remediation case involving an orbital riveting machine, an E-Stop failure, and a redesign aligned with modern safety standards.",
+      "image": "/assets/img/riveting-cover.jpg",
+      "tags": [
+        "Case Study",
+        "ISO 12100",
+        "ISO 13849"
+      ],
+      "type": "blog"
+    },
+    {
       "title": "My Road to Become a CMSE",
       "slug": "my-road-to-become-a-cmse",
       "date": "2026-03-08",
