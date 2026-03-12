@@ -44,8 +44,8 @@ async function build() {
       title: data.title,
       slug: data.slug,
       description: data.description,
-      tags: data.tags || [],
-      content: content.substring(0, 500)
+      image: data.image,
+      tags: data.tags || []
     });
 
     if (Array.isArray(data.tags)) {
