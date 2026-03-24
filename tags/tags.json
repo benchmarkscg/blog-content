@@ -3,10 +3,17 @@
     "case-study-orbital-riveting-machine"
   ],
   "ISO 12100": [
-    "case-study-orbital-riveting-machine"
+    "case-study-orbital-riveting-machine",
+    "iso-12100-risk-assessment-chairman"
   ],
   "ISO 13849": [
     "case-study-orbital-riveting-machine"
+  ],
+  "Standard": [
+    "iso-12100-risk-assessment-chairman"
+  ],
+  "Risk Assessment": [
+    "iso-12100-risk-assessment-chairman"
   ],
   "CMSE": [
     "my-road-to-become-a-cmse"

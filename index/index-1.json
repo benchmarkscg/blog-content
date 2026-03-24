@@ -3,6 +3,19 @@
   "total_pages": 1,
   "posts": [
     {
+      "title": "ISO 12100: Risk Assessment Chairman",
+      "slug": "iso-12100-risk-assessment-chairman",
+      "date": "2026-03-23",
+      "description": "Real world scenario when performing a risk assessment under ISO 12100",
+      "image": "/assets/img/ISO_12100_cover.jpg",
+      "tags": [
+        "ISO 12100",
+        "Standard",
+        "Risk Assessment"
+      ],
+      "type": "blog"
+    },
+    {
       "title": "Case Study: Orbital Riveting Machine Safety Remediation",
       "slug": "case-study-orbital-riveting-machine",
       "date": "2026-03-12",
