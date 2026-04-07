@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "ISO 12100 in Practice: A Real Machine, Step by Step",
+    "slug": "iso-12100-in-practice-real-machine",
+    "description": "Applying ISO 12100 step by step on a real industrial machine.",
+    "image": "/assets/img/Risk_Assessment_Steps.webp",
+    "tags": [
+      "ISO 12100",
+      "Risk Assessment",
+      "Machine Safety"
+    ]
+  },
+  {
     "title": "ISO 12100: Risk Assessment Chairman",
     "slug": "iso-12100-risk-assessment-chairman",
     "description": "Real world scenario when performing a risk assessment under ISO 12100",

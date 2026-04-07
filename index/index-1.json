@@ -3,6 +3,19 @@
   "total_pages": 1,
   "posts": [
     {
+      "title": "ISO 12100 in Practice: A Real Machine, Step by Step",
+      "slug": "iso-12100-in-practice-real-machine",
+      "date": "2026-04-07",
+      "description": "Applying ISO 12100 step by step on a real industrial machine.",
+      "image": "/assets/img/Risk_Assessment_Steps.webp",
+      "tags": [
+        "ISO 12100",
+        "Risk Assessment",
+        "Machine Safety"
+      ],
+      "type": "blog"
+    },
+    {
       "title": "ISO 12100: Risk Assessment Chairman",
       "slug": "iso-12100-risk-assessment-chairman",
       "date": "2026-03-23",
