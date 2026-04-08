@@ -119,8 +119,11 @@ And once you see the hazards clearly, the decisions become much harder to ignore
 
 If you want to apply this process yourself, you can download the template I use:
 
-<div style="margin: 1rem 0;">
-  <a class="btn btn-primary" href="/downloadForm?resource=risk_assessment&utm_source=blog&utm_medium=organic&utm_campaign=risk_assessment&utm_content=post" download>
+<div class="my-3">
+  <a 
+    class="btn btn-primary"
+    href="/downloadForm?resource=risk_assessment&utm_source=blog&utm_medium=organic&utm_campaign=risk_assessment&utm_content=post"
+  >
     <i class="bi bi-file-earmark-spreadsheet"></i> Download Risk Assessment Template
   </a>
 </div>
