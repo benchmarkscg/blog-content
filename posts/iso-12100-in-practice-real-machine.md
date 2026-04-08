@@ -8,6 +8,15 @@ image: "/assets/img/Risk_Assessment_Steps.webp"
 type: "blog"
 ---
 
+## <i class="bi bi-search"></i> What you’ll see in this walkthrough
+
+- How to define machine limits (the step everyone skips)
+- Where risk actually concentrates
+- What changes when safeguards are applied
+- How ISO 12100 guides real decisions
+
+---
+
 ## *“Ok… but what does a real risk assessment actually look like?”*
 
 Last time we talked about ISO 12100 and how it structures a risk assessment.  
@@ -47,7 +56,23 @@ What areas are intentionally reachable?
 
 ![Machine limits access zones](/assets/img/iso_12100_step_1_1.webp)
 
-Without clear limits, there is no risk assessment — just guesswork.
+<div class="mt-2 small">
+  <div><i class="bi bi-circle-fill text-primary"></i> Machine volume (space limits)</div>
+  <div><i class="bi bi-circle-fill text-success"></i> Operator access zones</div>
+  <div><i class="bi bi-circle-fill text-warning"></i> Maintenance zones</div>
+</div>
+
+Each zone represents a different type of interaction with the machine — a key concept when defining limits according to ISO 12100.
+
+---
+
+## <i class="bi bi-exclamation-triangle"></i> Common mistake
+
+Most risk assessments fail here:
+
+They start listing hazards without defining limits.
+
+Without limits, you are not assessing risk — you are guessing.
 
 ---
 
@@ -57,7 +82,13 @@ Once you start looking closely, hazards appear everywhere.
 
 ![Hazard zones](/assets/img/iso_12100_step_2.webp)
 
-Some examples:
+Instead of looking only for “obvious dangers”, classify hazards:
+
+- Mechanical (crushing, shearing, entrapment)  
+- Operational (unexpected start-up)  
+- Human interaction (loading/unloading behavior)  
+
+Some examples in this machine:
 
 - The point of operation → **crushing risk**  
 - The rotating table → **entrapment**  
@@ -66,10 +97,17 @@ Some examples:
 And the most dangerous part?  
 The operator’s natural working position is right next to these hazards.
 
-A typical scenario:  
-> During part loading, the operator’s hand enters the hazard zone while the table is still indexing.
+---
 
-This is exactly the kind of real‑world situation ISO 12100 forces you to see.
+### A structured risk scenario
+
+- Task: Manual part loading  
+- Hazard: Rotating indexing table  
+- Hazardous situation: Hand inside indexing zone  
+- Event: Unexpected movement during cycle  
+- Consequence: Crushing injury  
+
+This is how ISO 12100 structures risk — not just “danger”, but sequence.
 
 ---
 
@@ -77,11 +115,49 @@ This is exactly the kind of real‑world situation ISO 12100 forces you to see.
 
 Now we apply the hierarchy of risk reduction — in the order ISO 12100 requires:
 
-1. **Inherently safe design** (minimize exposure where possible)  
+1. **Inherently safe design** (eliminate or reduce hazards)  
 2. **Safeguarding & protective measures**  
 3. **Information for use**  
 
 ![Safeguarded machine](/assets/img/iso_12100_step_3.webp)
+
+Not all measures are equal.
+
+A warning sign does not reduce risk the same way a physical guard does.
+
+---
+
+<div class="row g-3 my-3">
+  <div class="col-md-6">
+    <div class="card h-100 border-danger">
+      <div class="card-body">
+        <h5 class="card-title text-danger">
+          <i class="bi bi-exclamation-triangle-fill"></i> Before safeguards
+        </h5>
+        <ul class="mb-0">
+          <li>Open access to hazards</li>
+          <li>Operator exposed</li>
+          <li>No control logic</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6">
+    <div class="card h-100 border-success">
+      <div class="card-body">
+        <h5 class="card-title text-success">
+          <i class="bi bi-shield-check"></i> After safeguards
+        </h5>
+        <ul class="mb-0">
+          <li>Controlled access</li>
+          <li>Risk reduced</li>
+          <li>Interlocked system</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 For this machine, that means:
 
@@ -106,7 +182,22 @@ If you don’t control the point of operation, you haven’t controlled the mach
 
 ---
 
+## <i class="bi bi-check2-square"></i> Quick self-check
+
+- Have you defined machine limits?  
+- Do you know where the operator actually stands?  
+- Have you identified the point of operation?  
+- Are safeguards controlling access or just warning?  
+
+If not, you’re not done yet.
+
+---
+
 ## <i class="bi bi-lightbulb"></i> Final thought
+
+At the beginning, the machine “worked”.
+
+Now you can see why that was never the right question.
 
 This is what ISO 12100 really does.  
 It doesn’t give you answers. It gives you a way to see.
@@ -117,7 +208,7 @@ And once you see the hazards clearly, the decisions become much harder to ignore
 
 ## <i class="bi bi-download"></i> Try it on your own machine
 
-If you want to apply this process yourself, you can download the template I use:
+Download the exact template used in this walkthrough:
 
 <div class="my-3">
   <a 
@@ -130,4 +221,5 @@ If you want to apply this process yourself, you can download the template I use:
 
 If you're unsure where to begin — or staring at your machine thinking *“okay… now what?”* —  
 you can reach out here: **[Contact me](https://www.benchmarkscg.com/contact)**  
+
 I can walk you through your first assessment step by step.
