@@ -1,4 +1,25 @@
 {
-  "audit_checklist": "Readiness_Audit_Machinery_Safety.xlsx",
-  "risk_assessment": "Template_Risk_Assessment_ISO_12100.xlsx"
+  "audit_checklist": {
+    "file": "Readiness_Audit_Machinery_Safety.xlsx",
+    "header": {
+      "title": "Is your machinery really audit‑ready?",
+      "paragraphs": [
+        "Don’t wait until inspection day to find out.",
+        "Get a free, structured assessment from a CMSE® – Certified Machinery Safety Expert (TÜV NORD).",
+        "Complete the form now and receive expert insights to help you pass your next audit with confidence."
+      ]
+    }
+  },
+
+  "risk_assessment": {
+    "file": "Template_Risk_Assessment_ISO_12100.xlsx",
+    "header": {
+      "title": "ISO 12100 Risk Assessment Template",
+      "paragraphs": [
+        "Identify hazards before they escalate.",
+        "Use this structured template to evaluate risks according to ISO 12100.",
+        "Download it now and improve your machinery safety process."
+      ]
+    }
+  }
 }
