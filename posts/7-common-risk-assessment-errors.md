@@ -36,7 +36,7 @@ Below are the **seven most common mistakes** I see in the field — and how to a
 ---
 
 ## Quick Overview
-
+<div class="table-responsive">
 <table class="table table-striped table-bordered">
   <thead class="table-light">
     <tr>
@@ -91,7 +91,7 @@ Below are the **seven most common mistakes** I see in the field — and how to a
     </tr>
   </tbody>
 </table>
-
+</div>
 ---
 
 <h2 id="not-involving-operators">1. Not Involving Real Operators</h2>
