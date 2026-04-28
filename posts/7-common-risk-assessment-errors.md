@@ -94,7 +94,7 @@ Below are the **seven most common mistakes** I see in the field — and how to a
 
 ---
 
-## 1. Not Involving Real Operators {: #not-involving-operators}
+<h2 id="not-involving-operators">1. Not Involving Real Operators</h2>
 
 ![Engineer and operator discussing workflow](/assets/img/common-mistakes-01.webp)
 
@@ -121,7 +121,7 @@ the adjustments. And that leads straight into the next mistake.
 
 ---
 
-## 2. Ignoring Non-Routine Tasks {: #ignoring-non-routine-tasks}
+<h2 id="ignoring-non-routine-tasks">2. Ignoring Non-Routine Tasks</h2>
 
 ![Maintenance worker performing a non-routine task on a machine](/assets/img/common-mistakes-02.webp)
 
@@ -140,7 +140,7 @@ These tasks often require bypassing safeguards or entering hazardous zones direc
 
 ---
 
-## 3. Confusing Severity With Probability {: #severity-vs-probability}
+<h2 id="severity-vs-probability">3. Confusing Severity With Probability</h2>
 
 ![Risk matrix highlighting high-severity low-probability quadrant](/assets/img/common-mistakes-03.webp)
 
@@ -168,7 +168,7 @@ If you want a deeper breakdown of ISO 12100, you can read it [here](https://post
 
 ---
 
-## 4. Overlooking Foreseeable Misuse {: #foreseeable-misuse}
+<h2 id="foreseeable-misuse"4. Overlooking Foreseeable Misuse</h2>
 
 ![Safety gate slightly open with mannequin operator reaching inside](/assets/img/common-mistakes-04.webp)
 
@@ -192,7 +192,7 @@ And this leads to another trap I see constantly: assuming a control that worked 
 
 ---
 
-## 5. Copying Controls Without Validation {: #copying-controls}
+<h2 id="copying-controls">5. Copying Controls Without Validation</h2>
 
 ![Two similar machines with different guard configurations](/assets/img/common-mistakes-05.webp)
 
@@ -223,7 +223,7 @@ So document everything.
 
 ---
 
-## 6. Poor Documentation {: #poor-documentation}
+<h2 id="poor-documentation">6. Poor Documentation</h2>
 
 ![Desk with risk assessment documents and notes](/assets/img/common-mistakes-06.webp)
 
@@ -251,7 +251,7 @@ And finally, even beautifully documented assessments become useless the moment t
 
 ---
 
-## 7. Not Updating the Assessment After Changes {: #not-updating}
+<h2 id="not-updating">7. Not Updating the Assessment After Changes</h2>
 
 ![Machine with highlighted new component affecting safety](/assets/img/common-mistakes-07.webp)
 
