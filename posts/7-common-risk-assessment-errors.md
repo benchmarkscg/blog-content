@@ -168,7 +168,7 @@ If you want a deeper breakdown of ISO 12100, you can read it [here](https://post
 
 ---
 
-<h2 id="foreseeable-misuse"4. Overlooking Foreseeable Misuse</h2>
+<h2 id="foreseeable-misuse">4. Overlooking Foreseeable Misuse</h2>
 
 ![Safety gate slightly open with mannequin operator reaching inside](/assets/img/common-mistakes-04.webp)
 
