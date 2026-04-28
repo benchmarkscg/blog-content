@@ -3,6 +3,19 @@
   "total_pages": 1,
   "posts": [
     {
+      "title": "The 7 Most Common Mistakes in Machinery Risk Assessments",
+      "slug": "7-common-risk-assessment-errors",
+      "date": "2026-04-28",
+      "description": "A practical, experience-based breakdown of the most common mistakes found in machinery risk assessments — and how to avoid them.",
+      "image": "/assets/img/common-mistakes-cover.webp",
+      "tags": [
+        "Risk Assessment",
+        "Machinery Safety",
+        "Engineering"
+      ],
+      "type": "blog"
+    },
+    {
       "title": "ISO 12100 in Practice: A Real Machine, Step by Step",
       "slug": "iso-12100-in-practice-real-machine",
       "date": "2026-04-07",

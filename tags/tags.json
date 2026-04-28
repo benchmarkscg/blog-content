@@ -1,4 +1,15 @@
 {
+  "Risk Assessment": [
+    "7-common-risk-assessment-errors",
+    "iso-12100-in-practice-real-machine",
+    "iso-12100-risk-assessment-chairman"
+  ],
+  "Machinery Safety": [
+    "7-common-risk-assessment-errors"
+  ],
+  "Engineering": [
+    "7-common-risk-assessment-errors"
+  ],
   "Case Study": [
     "case-study-orbital-riveting-machine"
   ],
@@ -9,10 +20,6 @@
   ],
   "ISO 13849": [
     "case-study-orbital-riveting-machine"
-  ],
-  "Risk Assessment": [
-    "iso-12100-in-practice-real-machine",
-    "iso-12100-risk-assessment-chairman"
   ],
   "Machine Safety": [
     "iso-12100-in-practice-real-machine"
