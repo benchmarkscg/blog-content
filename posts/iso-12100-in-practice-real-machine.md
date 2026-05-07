@@ -4,7 +4,7 @@ slug: "iso-12100-in-practice-real-machine"
 date: "2026-04-07"
 tags: ["ISO 12100", "Risk Assessment", "Machine Safety"]
 description: "Applying ISO 12100 step by step on a real industrial machine."
-image: "/assets/img/Risk_Assessment_Steps.webp"
+image: "assets/img/Risk_Assessment_Steps.webp"
 type: "blog"
 ---
 
