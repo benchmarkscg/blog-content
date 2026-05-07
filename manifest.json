@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "build": 1778184751687,
+  "build": 1778184855093,
   "cdn": "https://fastly.jsdelivr.net/gh/benchmarkscg/blog-content@main/",
   "index": "index/",
   "posts": "posts/",
