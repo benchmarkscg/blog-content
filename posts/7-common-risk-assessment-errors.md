@@ -4,7 +4,7 @@ slug: "7-common-risk-assessment-errors"
 date: "2026-04-28"
 tags: ["Risk Assessment", "Machinery Safety", "Engineering"]
 description: "A practical, experience-based breakdown of the most common mistakes found in machinery risk assessments — and how to avoid them."
-image: "/assets/img/common-mistakes-cover.webp"
+image: "assets/img/common-mistakes-cover.webp"
 type: "blog"
 ---
 
