@@ -4,7 +4,7 @@ slug: "my-road-to-become-a-cmse"
 date: "2026-03-08"
 tags: ["CMSE", "Certification"]
 description: "My experience preparing for the CMSE certification by TÜV NORD."
-image: "/assets/img/cmse-cover.webp"
+image: "assets/img/cmse-cover.webp"
 type: "blog"
 ---
 
