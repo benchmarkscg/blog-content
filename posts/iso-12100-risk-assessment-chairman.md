@@ -4,7 +4,7 @@ slug: "iso-12100-risk-assessment-chairman"
 date: "2026-03-23"
 tags: ["ISO 12100", "Standard", "Risk Assessment"]
 description: "Real world scenario when performing a risk assessment under ISO 12100"
-image: "/assets/img/ISO_12100_cover.jpg"
+image: "assets/img/ISO_12100_cover.jpg"
 type: "blog"
 ---
 
