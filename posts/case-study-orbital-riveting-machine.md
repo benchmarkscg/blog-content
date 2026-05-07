@@ -4,7 +4,7 @@ slug: "case-study-orbital-riveting-machine"
 date: "2026-03-12"
 tags: ["Case Study", "ISO 12100", "ISO 13849"]
 description: "A real industrial safety remediation case involving an orbital riveting machine, an E-Stop failure, and a redesign aligned with modern safety standards."
-image: "/assets/img/riveting-cover.jpg"
+image: "assets/img/riveting-cover.jpg"
 type: "blog"
 author: "Humberto Vargas"
 ---
