@@ -92,6 +92,7 @@ Below are the **seven most common mistakes** I see in the field — and how to a
   </tbody>
 </table>
 </div>
+
 ---
 
 <h2 id="not-involving-operators">1. Not Involving Real Operators</h2>
