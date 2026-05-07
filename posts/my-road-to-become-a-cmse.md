@@ -36,7 +36,7 @@ We did what we could with the knowledge we had, but CMSE gave me the framework t
 
 ## Diving Into the Standards
 
-Preparing for CMSE meant truly understanding the standards that shape modern machinery safety:
+Preparing for CMSE meant truly understanding the standards:
 
 - **ISO 13849-1/-2**  
 - **IEC 61508**  
