@@ -3,7 +3,7 @@
     "title": "The 7 Most Common Mistakes in Machinery Risk Assessments",
     "slug": "7-common-risk-assessment-errors",
     "description": "A practical, experience-based breakdown of the most common mistakes found in machinery risk assessments — and how to avoid them.",
-    "image": "/assets/img/common-mistakes-cover.webp",
+    "image": "assets/img/common-mistakes-cover.webp",
     "tags": [
       "Risk Assessment",
       "Machinery Safety",
@@ -14,7 +14,7 @@
     "title": "Case Study: Orbital Riveting Machine Safety Remediation",
     "slug": "case-study-orbital-riveting-machine",
     "description": "A real industrial safety remediation case involving an orbital riveting machine, an E-Stop failure, and a redesign aligned with modern safety standards.",
-    "image": "/assets/img/riveting-cover.jpg",
+    "image": "assets/img/riveting-cover.jpg",
     "tags": [
       "Case Study",
       "ISO 12100",
@@ -25,7 +25,7 @@
     "title": "ISO 12100 in Practice: A Real Machine, Step by Step",
     "slug": "iso-12100-in-practice-real-machine",
     "description": "Applying ISO 12100 step by step on a real industrial machine.",
-    "image": "/assets/img/Risk_Assessment_Steps.webp",
+    "image": "assets/img/Risk_Assessment_Steps.webp",
     "tags": [
       "ISO 12100",
       "Risk Assessment",
@@ -36,7 +36,7 @@
     "title": "ISO 12100: Risk Assessment Chairman",
     "slug": "iso-12100-risk-assessment-chairman",
     "description": "Real world scenario when performing a risk assessment under ISO 12100",
-    "image": "/assets/img/ISO_12100_cover.jpg",
+    "image": "assets/img/ISO_12100_cover.jpg",
     "tags": [
       "ISO 12100",
       "Standard",
@@ -47,7 +47,7 @@
     "title": "My Road to Become a CMSE",
     "slug": "my-road-to-become-a-cmse",
     "description": "My experience preparing for the CMSE certification by TÜV NORD.",
-    "image": "/assets/img/cmse-cover.webp",
+    "image": "assets/img/cmse-cover.webp",
     "tags": [
       "CMSE",
       "Certification"

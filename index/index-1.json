@@ -7,7 +7,7 @@
       "slug": "7-common-risk-assessment-errors",
       "date": "2026-04-28",
       "description": "A practical, experience-based breakdown of the most common mistakes found in machinery risk assessments — and how to avoid them.",
-      "image": "/assets/img/common-mistakes-cover.webp",
+      "image": "assets/img/common-mistakes-cover.webp",
       "tags": [
         "Risk Assessment",
         "Machinery Safety",
@@ -20,7 +20,7 @@
       "slug": "iso-12100-in-practice-real-machine",
       "date": "2026-04-07",
       "description": "Applying ISO 12100 step by step on a real industrial machine.",
-      "image": "/assets/img/Risk_Assessment_Steps.webp",
+      "image": "assets/img/Risk_Assessment_Steps.webp",
       "tags": [
         "ISO 12100",
         "Risk Assessment",
@@ -33,7 +33,7 @@
       "slug": "iso-12100-risk-assessment-chairman",
       "date": "2026-03-23",
       "description": "Real world scenario when performing a risk assessment under ISO 12100",
-      "image": "/assets/img/ISO_12100_cover.jpg",
+      "image": "assets/img/ISO_12100_cover.jpg",
       "tags": [
         "ISO 12100",
         "Standard",
@@ -46,7 +46,7 @@
       "slug": "case-study-orbital-riveting-machine",
       "date": "2026-03-12",
       "description": "A real industrial safety remediation case involving an orbital riveting machine, an E-Stop failure, and a redesign aligned with modern safety standards.",
-      "image": "/assets/img/riveting-cover.jpg",
+      "image": "assets/img/riveting-cover.jpg",
       "tags": [
         "Case Study",
         "ISO 12100",
@@ -59,7 +59,7 @@
       "slug": "my-road-to-become-a-cmse",
       "date": "2026-03-08",
       "description": "My experience preparing for the CMSE certification by TÜV NORD.",
-      "image": "/assets/img/cmse-cover.webp",
+      "image": "assets/img/cmse-cover.webp",
       "tags": [
         "CMSE",
         "Certification"
