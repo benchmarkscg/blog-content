@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "build": 1778165234745,
-  "cdn": "https://cdn.jsdelivr.net/gh/benchmarkscg/blog-content@main/",
+  "cdn": "https://fastly.jsdelivr.net/gh/benchmarkscg/blog-content@main/",
   "index": "index/",
   "posts": "posts/",
   "tags": "tags/tags.json",
